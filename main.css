@@ -29,19 +29,19 @@ left: 0;
 
 .text a {
 	position: relative;
-	top: -35px;
+	top: -45px;
 	left: 60px;
 }
 
 .surprise a {
   position: relative;
-  top: -63px;
+  top: -73px;
   left: 1025px;
 }
 
 .content {
   position: relative;
-  bottom: -75px;
+  bottom: -85px;
   text-align: center;
   font-size: 36px;
 }
