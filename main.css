@@ -32,3 +32,26 @@ left: 0;
 	top: -45px;
 	left: 60px;
 }
+
+.surprise a {
+  position: relative;
+  top: -73px;
+  left: 1025px;
+}
+
+.content {
+  position: relative;
+  bottom: -85px;
+  text-align: center;
+  font-size: 36px;
+}
+
+.content h1 {
+  font-family: Calibri;
+  font-size: 56px;
+}
+
+.content h3 {
+  font-family: Calibri;
+  font-size: 44px;
+}
