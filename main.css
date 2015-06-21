@@ -35,13 +35,13 @@ left: 0;
 
 .surprise a {
   position: relative;
-  top: -73px;
+  top: -63px;
   left: 1025px;
 }
 
 .content {
   position: relative;
-  bottom: -85px;
+  bottom: -75px;
   text-align: center;
   font-size: 36px;
 }
