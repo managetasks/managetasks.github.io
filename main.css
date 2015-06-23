@@ -27,31 +27,36 @@ bottom: 0;
 left: 0;
 }
 
+.logo {
+  position: relative;
+  left: -16px;
+}
 .text a {
 	position: relative;
 	top: -45px;
-	left: 60px;
+	left: 44px;
 }
 
-.surprise a {
-  position: relative;
-  top: -73px;
-  left: 1025px;
-}
-
-.content {
+.info {
   position: relative;
   bottom: -85px;
   text-align: center;
   font-size: 36px;
 }
 
-.content h1 {
+.info h1 {
   font-family: Calibri;
-  font-size: 56px;
+  font-size: 52px;
 }
 
-.content h3 {
+.info h3 {
   font-family: Calibri;
-  font-size: 44px;
+  font-size: 38px;
+}
+
+.info h4 {
+  font-family: Calibri;
+  font-size: 28px;
+  position: relative;
+  bottom: -25px;
 }
