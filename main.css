@@ -41,7 +41,6 @@ left: 0;
   position: relative;
   bottom: -85px;
   text-align: center;
-  font-size: 36px;
 }
 
 .info h1 {
@@ -52,11 +51,4 @@ left: 0;
 .info h3 {
   font-family: Calibri;
   font-size: 38px;
-}
-
-.info h4 {
-  font-family: Calibri;
-  font-size: 28px;
-  position: relative;
-  bottom: -25px;
 }
